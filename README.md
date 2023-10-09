@@ -13,7 +13,7 @@
 
 ### 🏠 [Homepage](https://github.com/Miralhas/Alien-Invasion)
 
-![pic_0](:/7e3912c564b14281bca9a2f21029069c)
+![image](https://github.com/Miralhas/Alien-Invasion/assets/89564433/064bf889-f0ba-41ce-8858-a7fb91f30a07)
 
 
 ## Install
